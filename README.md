@@ -20,3 +20,5 @@ This repository contains the codebase and research report for predicting global 
 ## 👤 Author
 **Long Trinh** MS Artificial Intelligence and Business Analytics  
 University of South Florida (USF)
+
+<img width="784" height="737" alt="image" src="https://github.com/user-attachments/assets/5ad1b21c-dcf0-41c0-9f84-8ca82b976e41" />
